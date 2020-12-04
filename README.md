@@ -424,7 +424,8 @@ Android开发核心知识点笔记-目录：
 
 快捷加群方式：[点击此处加入群聊Android架构交流群](https://jq.qq.com/?_wv=1027&k=JhAVz6QV)
 
-![image-20201204162825085](C:\Users\13226\AppData\Roaming\Typora\typora-user-images\image-20201204162825085.png)
+![](https://upload-images.jianshu.io/upload_images/16810022-e3c18cb4b91a8ff5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 > PS：
 >
