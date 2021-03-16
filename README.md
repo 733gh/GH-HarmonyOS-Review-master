@@ -10,7 +10,7 @@ Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
 
 > 部分内容收集整理于网络，在此也再次感谢所有内容产出者的贡献！
 >
-> > 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**QQ群**](https://jq.qq.com/?_wv=1027&k=JhAVz6QV)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
+> > 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**QQ群**](https://jq.qq.com/?_wv=1027&k=0LtuaUyZ)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 # Android-Notes
 
@@ -422,10 +422,9 @@ Android开发核心知识点笔记-目录：
 
 **Android架构交流群**：**872206502** （备注一下GitHub，免得被认成打无良广告的）
 
-快捷加群方式：[点击此处加入群聊Android架构交流群](https://jq.qq.com/?_wv=1027&k=JhAVz6QV)
+快捷加群方式：[点击此处加入群聊Android架构交流群](https://jq.qq.com/?_wv=1027&k=0LtuaUyZ)
 
-![](https://upload-images.jianshu.io/upload_images/16810022-e3c18cb4b91a8ff5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![](https://user-images.githubusercontent.com/68420976/111287863-99d7f380-867e-11eb-8676-016a204d5754.png)
 
 > PS：
 >
