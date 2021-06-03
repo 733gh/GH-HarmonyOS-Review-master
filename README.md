@@ -420,11 +420,13 @@ Android开发核心知识点笔记-目录：
 
 ## QQ群
 
-**Android架构交流群**：**710443626** （备注一下GitHub，免得被认成打无良广告的）
+**Android架构交流群**：[**710443626**](https://jq.qq.com/?_wv=1027&k=iW7GWhW2) （备注一下GitHub，免得被认成打无良广告的）
 
-快捷加群方式：[点击此处加入群聊Android架构交流群](https://jq.qq.com/?_wv=1027&k=0LtuaUyZ)
+<img src="https://user-images.githubusercontent.com/68420976/120619279-668f4e80-c48e-11eb-94e7-06354e4a8333.png">
 
-![](https://user-images.githubusercontent.com/68420976/111287863-99d7f380-867e-11eb-8676-016a204d5754.png)
+**微信：MNxiaona666**
+ 
+ <img src="https://user-images.githubusercontent.com/68420976/120615212-a0f6ec80-c48a-11eb-9b2f-9aab3d7782a6.png">
 
 > PS：
 >
